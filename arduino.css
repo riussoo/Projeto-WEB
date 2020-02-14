@@ -1,0 +1,17 @@
+body { 
+    background-color: lightblue;
+    background-image: url('arduino.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: right top
+      }
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
